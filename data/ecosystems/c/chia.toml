@@ -1241,3 +1241,7 @@ url = "https://github.com/farmerdiamonds/chia-walletbalance-nodejs"
 
 [[repo]]
 url = "https://github.com/bringyour/go-xch"
+
+[[repo]]
+url = "https://github.com/chiadev/CatMan-NFT"
+
